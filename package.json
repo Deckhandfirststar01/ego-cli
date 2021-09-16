@@ -46,7 +46,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "chokidar": "^3.0.1",
-    "cli-highlight": "^2.1.1",
+    "cli-highlight": "^2.1.4",
     "cron": "^1.7.1",
     "deepmerge": "^3.3.0",
     "ejs": "^2.6.2",
@@ -55,7 +55,7 @@
     "fs-extra": "^8.1.0",
     "global-dirs": "^1.0.0",
     "html-entities": "^1.2.1",
-    "inquirer": "^6.4.1",
+    "inquirer": "^7.0.5",
     "isbinaryfile": "^4.0.1",
     "lodash": "^4.17.11",
     "mime-types": "^2.1.24",
