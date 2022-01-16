@@ -56,7 +56,7 @@
     "global-dirs": "^1.0.0",
     "html-entities": "^1.2.1",
     "inquirer": "^6.4.1",
-    "isbinaryfile": "^4.0.1",
+    "isbinaryfile": "^4.0.8",
     "lodash": "^4.17.11",
     "mime-types": "^2.1.24",
     "minimist": "^1.2.0",
